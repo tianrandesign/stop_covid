@@ -116,7 +116,7 @@ document.querySelector('.goscreen7').addEventListener('click', goscreen7);
 
 function goscreen8() {
 	"use strict";
-    animation.playSegments([811,900], true);
+    animation.playSegments([811,886], true);
 	document.getElementById("screen1").style.display = "none";
 	document.getElementById("screen2").style.display = "none";
 	document.getElementById("screen3").style.display = "none";
@@ -131,7 +131,7 @@ document.querySelector('.goscreen8').addEventListener('click', goscreen8);
 
 function goscreen9() {
 	"use strict";
-    animation.playSegments([901,930], true);
+    animation.playSegments([887,933], true);
 	document.getElementById("screen1").style.display = "none";
 	document.getElementById("screen2").style.display = "none";
 	document.getElementById("screen3").style.display = "none";
