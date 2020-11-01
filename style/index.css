@@ -21,12 +21,12 @@ button:focus {outline:0;}
 
 .goscreen2, .goscreen3, .goscreen4, .goscreen5, .goscreen6, .goscreen7, .goscreen8, .goscreen9,.start{
 	width: 30vh;
-	height: 8vh;
+	height: 6vh;
     opacity: 1;
     border: none;
     display: inline-block;
 	position: fixed;
-    bottom: 1vh;
+    top: 1vh;
 	left: 0;
     right: 0;
 	margin: auto;
