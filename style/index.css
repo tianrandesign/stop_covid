@@ -1,13 +1,13 @@
 body,
 html {
-  background-color: #fff;
+
   margin: 0px;
   height: 100%;
   overflow-x: hidden;
 }
 
-#lottie {
-  background-color: #fff;
+.lottie {
+
   width: 100%;
   height: 100%;
   display: block;

@@ -1,9 +1,12 @@
+let MotionStory = document.querySelector(".lottie");
 var animation = lottie.loadAnimation({
-  container: document.getElementById("lottie"),
+  container: MotionStory,
   renderer: "svg",
   loop: false,
   autoplay: false,
-  path: "data.json"
+  path: "data.json",
+	 initialSegment: [89, 100],
+	
 });
 
 function start() {
